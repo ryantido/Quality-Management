@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /admin/ # Interdit l'exploration des pages sous le dossier /admin/
